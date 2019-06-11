@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDWcNj8_2WDwb3bWb4XocyrzthTznWPXQM",
-    authDomain: "rentechclimbs-7b317.firebaseapp.com",
-    databaseURL: "https://rentechclimbs-7b317.firebaseio.com",
-    projectId: "rentechclimbs-7b317",
-    storageBucket: "rentechclimbs-7b317.appspot.com",
-    messagingSenderId: "468450553101",
-    appId: "1:468450553101:web:539bacbd1ce2e0ac"
+    apiKey: "XXXXXXXXXXXXXXXXXXXXXXX",
+    authDomain: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    databaseURL: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    projectId: "XXXXXXXXXXXXXXXXXXXXXXX",
+    storageBucket: "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    appId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   }
 };
 
